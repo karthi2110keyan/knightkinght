@@ -27,7 +27,7 @@ class sprite{
         this.frameMax=frameMax
         this.frameX=frameX
         this.gamespeed =gamespeed
-        this.gamehold=2
+        this.gamehold=5
         this.offset=offset
         this.scale=scale
     }
